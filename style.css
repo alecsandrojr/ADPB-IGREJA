@@ -1,0 +1,84 @@
+body{
+  background-color:#e6f0ff;
+  color: black;
+}
+
+
+
+header {background-image: url('./imagens/pessoas\ igreja.jpg');
+  height: 400px;
+
+  background-size: cover;      /* faz a imagem cobrir tudo */
+  background-position: center; /* centraliza */
+  background-repeat: no-repeat;/* evita repetir */
+  text-align: center;
+}
+
+.e{margin-top: 300px;
+}
+
+.Assembleia.de.Deus.missão{
+  color: black;
+  font-size: 30px;
+  margin-top: 30px;
+}
+h2{text-align: center;
+}
+
+
+
+.primeiro {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.video {
+ display: block;
+  margin: 0 auto;
+ border: 2px solid blue;
+}
+
+
+
+
+.divisao{
+  background-color:#7c8bca;
+  text-align: center;
+
+}
+.divisao1{
+  background-color:#f1d688;
+  text-align: center;
+  
+}
+.divisao2{
+  background-color:#bf93eb;
+  text-align: center;
+  
+}
+
+.divisaofinal{
+  background-color: #2828e7;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  
+  
+}
+
+
+
+.evangelismo{
+
+  width: 250px;
+}
+
+
+
+.link_intagram{
+  color:rgb(17, 0, 255);
+  
+}
+
+
+
